@@ -1,13 +1,13 @@
-# Madhav Ecommerce Sales Dashboard 📊
+# Ecommerce Sales Dashboard  (Commerce View) 📊
 
-Welcome to the Madhav Ecommerce Sales Dashboard project repository! This project aims to create an interactive dashboard to track and analyze online sales across India for Madhav Store. Using Power BI, we've developed a comprehensive solution that enables the owner of Madhav Store to gain valuable insights into their online sales performance.
+Welcome to the Commerce View an Ecommerce Sales Dashboard project repository! This project aims to create an interactive dashboard to track and analyze online sales across India for Madhav Store. Using Power BI, we've developed a comprehensive solution that enables the owner of Madhav Store to gain valuable insights into their online sales performance.
 
 ## Preview
-![Dashboard Preview](https://github.com/minhaj-313/Madhav-Ecommerce-Sales-Dashboard-Using-Power-BI/blob/main/Madhav%20Ecommerce%20Sales%20Dashboard.png?raw=true)
+![Dashboard Preview](https://github.com/kaushlesh82/CommerceView/blob/main/Kaushlesh%20Ecommerce%20Sales%20Dashboard.png?raw=true)
 
 
 ## Objective
-The objective of the Madhav Ecommerce Sales Dashboard project is to assist the owner of Madhav Store in tracking and analyzing their online sales across India. By leveraging Power BI, we aim to provide an interactive dashboard that offers insights into sales performance, customer behavior, and regional trends.
+The objective of the Ecommerce Sales Dashboard project is to assist the owner of Madhav Store in tracking and analyzing their online sales across India. By leveraging Power BI, we aim to provide an interactive dashboard that offers insights into sales performance, customer behavior, and regional trends.
 
 
 ## Tools Used
@@ -29,5 +29,5 @@ Throughout this project, we've gained valuable experience and skills, including:
 
 
 ## Contact
-For inquiries and collaborations, feel free to reach out to [sdeminhaj@gmail.com](mailto:sdeminhaj@gmail.com).
+For inquiries and collaborations, feel free to reach out to [kaushleshchaurasiya18@gmail.com](mailto:kaushleshchaurasiya18@gmail.com).
 
